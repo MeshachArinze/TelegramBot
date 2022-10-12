@@ -14,9 +14,9 @@ follow the instruction. make sure you set your project to default. choose any la
 
 navigate to your repo
 
-open the browser with firebae serve.
-create a new bot with botfather from your telegram account.
+open the browser with firebase serve.
+create a new bot with botfather from your web.telegram.org.
 
 rename  the bot and you
-got to telegraf.js.org  and install telegrap to your project directory inside the function folder with npm i telegrap --save 
+got to https://telegraf.js.org/  and install telegrap to your project directory inside the function folder with npm i telegrap --save 
 get your api key. make it private to you
